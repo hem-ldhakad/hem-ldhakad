@@ -1,1 +1,1 @@
-# README.md
+write a github profile repo computer science student write i small description about me node express react html css js Git control tools me versal , railway, supabase , render Ai tools me antigravity and claude opas Database me mongobd atlas , sql Authorization me jwt 0 auth Language me c cpp python use animation and good images my name is Hemal singh dhakad a computer science eng student in JECRC university Jaipur make it beautiful
