@@ -108,8 +108,6 @@ I'm **Hemal Singh Dhakad**, a Computer Science Engineering student at **JECRC Un
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E86AB,50:8E7CC3,100:FF9A8B&height=120&section=footer" width="100%"/>
-
 <div align="center">
   <sub>Thanks for visiting my profile — always happy to connect and collaborate 🌸</sub>
 </div>
